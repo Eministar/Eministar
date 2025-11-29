@@ -84,18 +84,6 @@
 ---
 
 
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=EministarVR&show_icons=true&theme=radical&hide_border=true" height="165"/>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EministarVR&layout=compact&theme=radical&hide_border=true" height="165"/>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
   <picture>
   <img src="/github-metrics.svg" alt="Metrics">
