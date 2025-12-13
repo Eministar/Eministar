@@ -9,13 +9,6 @@
 
 ---
 
-
-🎮 *Minecraft Plugin Developer*  
-💻 *Frontend & Backend Developer*  
-🔧 *Aktiv bei **YukiCraft** als Serverleitung & Developer*
-
----
-
 ## 🛠️ Mein Stack & Tools
 
 # 💻 Sprachen & Erfahrung
@@ -49,13 +42,6 @@
 - **COBOL:** Interessehalber reingeschaut, einfach weil’s nerdig ist 😄  
 
 ---
-
-### 🌐 Kurz gesagt
-> Java & TypeScript = mein Zuhause  
-> Der Rest = nice to know  
-
-
-<br/>
 
  ## ⚙️ Frameworks & Tools 
 
