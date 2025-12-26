@@ -7,7 +7,6 @@
 </p>
 
 <div align="center">
-  <a href="https://discord.com/users/928021462386892830" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/928021462386892830?theme=dark&showDisplayName=true&idleMessage=🌙%20AFK%20–%20am%20nächsten%20großen%20Ding%20bauen..." />
   </a>
 </div>
