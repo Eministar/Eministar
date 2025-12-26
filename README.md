@@ -1,85 +1,95 @@
-# 👋 Hey, ich bin Nael-Emin Ben Oun (aka **Eministar**)
+# 👋 Hey, ich bin Nael-Emin Ben Oun  
+### aka **Eministar** 🚀
 
+<p align="center">
+  <b>Developer · System Builder · Web & Minecraft Tooling</b><br>
+  Ich baue Dinge, die funktionieren – und gut aussehen.
+</p>
 
 <div align="center">
   <a href="https://discord.com/users/928021462386892830" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/928021462386892830?idleMessage=%F0%9F%8C%99%20AFK%20%E2%80%93%20Coden%20am%20n%C3%A4chsten%20gro%C3%9Fen%20Ding...%20%7C%20EministarVR%20%F0%9F%9A%80&theme=dark&showDisplayName=true" alt="Discord Presence">
+    <img src="https://lanyard.cnrad.dev/api/928021462386892830?theme=dark&showDisplayName=true&idleMessage=🌙%20AFK%20–%20am%20nächsten%20großen%20Ding%20bauen..." />
   </a>
 </div>
 
 ---
 
-## 🛠️ Mein Stack & Tools
+## 🧠 Fokus & Stärken
 
-# 💻 Sprachen & Erfahrung
-
-### ❤️ Hauptsprachen
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height:40px;" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:40px;" alt="TypeScript"/>
-</div>
-
-**Java** ist meine Hauptsprache – hier entwickle ich am meisten (Plugins, Systeme, Tools).  
-**TypeScript** nutze ich regelmäßig im Web-Stack und liebe die klare Struktur.
+- **Java-first Developer** (Plugins, Systeme, Tools)
+- Moderne **Web-Stacks** mit TypeScript
+- Cloudflare Workers, APIs & saubere Architekturen
+- Minecraft-Ökosysteme (Paper / Velocity / Tooling)
+- UX > Feature-Geflexe
 
 ---
 
-### ⚙️ Weitere Kenntnisse
+## 💻 Sprachen
+
+### 🔥 Hauptfokus
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px;" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:40px;" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px;" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px;" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="height:40px;" alt="Lua"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" style="height:40px;" alt="Rust"/>
-  <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" style="height:40px;" alt="COBOL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42"/>
 </div>
 
-
-- **HTML, CSS, JS:** Standard-Webstack, den ich regelmäßig nutze.  
-- **Python & Lua:** Habe ich mich intensiver eingelesen – war spannend, aber nicht ganz meins.  
-- **Rust:** Mal ausprobiert, aber nicht wirklich warm damit geworden.  
-- **COBOL:** Interessehalber reingeschaut, einfach weil’s nerdig ist 😄  
+<p align="center">
+  <b>Java</b> – Hauptsprache für alles Serverseitige<br>
+  <b>TypeScript</b> – Web, APIs, strukturierter Frontend-Code
+</p>
 
 ---
 
- ## ⚙️ Frameworks & Tools 
-
- 
+### ⚙️ Weitere Erfahrungen
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height: 40px; width: auto; display: inline-block; background-color: white; border-radius: 6px;" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Astro"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 40px; width: auto; display: inline-block;" alt="VS Code"/>
-  <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" style="height: 40px; width: auto; display: inline-block;" alt="Spigot"/>
-  <img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" style="height: 40px; width: auto; display: inline-block;" alt="Velocity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
+  <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" height="36"/>
 </div>
 
-
-</div>
-
+<p align="center">
+  Python & Lua: benutzt · Rust: getestet · COBOL: aus Neugier 😄
+</p>
 
 ---
 
+## 🧩 Frameworks & Tools
 
 <div align="center">
-  <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38"/>
+  <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="38"/>
+  <img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" height="38"/>
 </div>
 
 ---
 
-## So viele waren schon auf meinem Profil <3
+## 📊 Stats & Activity
 
 <div align="center">
-  <img src="https://count.getloli.com/@EministarVR?name=EministarVR&theme=minecraft&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile Views"/>
+  <img src="/github-metrics.svg" alt="GitHub Metrics"/>
 </div>
+
+---
+
+## 👀 Profil-Besucher
+
+<div align="center">
+  <img src="https://count.getloli.com/@EministarVR?theme=minecraft&padding=7&pixelated=1&darkmode=auto"/>
+</div>
+
+<p align="center">
+  danke fürs Vorbeischauen 🫶
+</p>
