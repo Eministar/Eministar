@@ -72,12 +72,9 @@
 
 ---
 
-## 📊 Stats & Activity
+<br clear="both">
 
-<div align="center">
-  <img src="/github-metrics.svg" alt="GitHub Metrics"/>
-</div>
-
+<img src="https://raw.githubusercontent.com/Eministar/Eministar/output/snake.svg" alt="Snake animation" />
 ---
 
 ## 👀 Profil-Besucher
