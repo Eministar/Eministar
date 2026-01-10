@@ -65,7 +65,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Eministar/Eministar/output/snake.svg" alt="Snake animation" />
----
+
 
 ## 👀 Profil-Besucher
 
