@@ -10,16 +10,6 @@
 
 ---
 
-## 🧠 Fokus & Stärken
-
-- **Java-first Developer** (Plugins, Systeme, Tools)
-- Moderne **Web-Stacks** mit TypeScript
-- Cloudflare Workers, APIs & saubere Architekturen
-- Minecraft-Ökosysteme (Paper / Velocity / Tooling)
-- UX > Feature-Geflexe
-
----
-
 ## 💻 Sprachen
 
 ### 🔥 Hauptfokus
