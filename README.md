@@ -1,15 +1,22 @@
-<div align="center">
-  <a href="https://discord.com/users/928021462386892830" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/928021462386892830?idleMessage=%F0%9F%8C%99%20AFK%20%E2%80%93%20Coden%20am%20n%C3%A4chsten%20gro%C3%9Fen%20Ding...%20%7C%20EministarVR%20%F0%9F%9A%80&theme=dark&showDisplayName=true" alt="Discord Presence">
-  </a>
-</div>
-
-<h1 align="center">👋 Nael-Emin Ben Oun — <b>Eministar</b> 🚀</h1>
-
-<p align="center">
-  <b>Developer · System Builder · Web & Minecraft Tooling</b><br>
-  Ich baue Dinge, die funktionieren – und gut aussehen.
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <h1>👋 Nael-Emin Ben Oun — <b>Eministar</b> 🚀</h1>
+      <p>
+        <b>Developer · System Builder · Web & Minecraft Tooling</b><br>
+        Ich baue Dinge, die funktionieren – und gut aussehen.
+      </p>
+    </td>
+    <td align="right" valign="top">
+      <a href="https://discord.com/users/928021462386892830" target="_blank">
+        <img
+          src="https://lanyard.cnrad.dev/api/928021462386892830?idleMessage=%F0%9F%8C%99%20AFK%20%E2%80%93%20Coden%20am%20n%C3%A4chsten%20gro%C3%9Fen%20Ding...%20%7C%20EministarVR%20%F0%9F%9A%80&theme=dark&showDisplayName=true"
+          alt="Discord Presence"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
