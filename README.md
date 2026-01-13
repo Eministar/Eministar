@@ -1,3 +1,9 @@
+## 👋 Nael-Emin Ben Oun — **Eministar** 🚀
+**Developer · System Builder · Web & Minecraft Tooling**  
+Ich baue Dinge, die funktionieren – und gut aussehen.
+
+<br/>
+
 <a href="https://discord.com/users/928021462386892830" target="_blank">
   <img
     align="right"
@@ -6,13 +12,6 @@
     width="330"
   />
 </a>
-
-## 👋 Nael-Emin Ben Oun — **Eministar** 🚀
-**Developer · System Builder · Web & Minecraft Tooling**  
-Ich baue Dinge, die funktionieren – und gut aussehen.
-
-<br/><br/><br/>
-<br clear="right"/>
 
 ---
 
@@ -41,6 +40,8 @@ Ich baue Dinge, die funktionieren – und gut aussehen.
   <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="26"/>
   <img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" height="26"/>
 </p>
+
+<br clear="right"/>
 
 ---
 
