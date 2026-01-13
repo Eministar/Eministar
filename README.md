@@ -1,4 +1,4 @@
-# 👋 Nael-Emin Ben Oun — **Eministar** 🚀
+# 👋 Nael-Emin Ben Oun — **Eministar**
 **Developer · System Builder · Web & Minecraft Tooling**  
 Ich baue Dinge, die funktionieren – und gut aussehen.
 
