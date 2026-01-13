@@ -1,42 +1,43 @@
-# 👋 Nael-Emin Ben Oun — **Eministar**
-**Developer · System Builder · Web & Minecraft Tooling**  
-Ich baue Dinge, die funktionieren – und gut aussehen.
-
 <div align="center">
   <a href="https://discord.com/users/928021462386892830" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/928021462386892830?idleMessage=%F0%9F%8C%99%20AFK%20%E2%80%93%20Coden%20am%20n%C3%A4chsten%20gro%C3%9Fen%20Ding...%20%7C%20EministarVR%20%F0%9F%9A%80&theme=dark&showDisplayName=true" alt="Discord Presence">
   </a>
 </div>
 
+<h1 align="center">👋 Nael-Emin Ben Oun — <b>Eministar</b> 🚀</h1>
+
+<p align="center">
+  <b>Developer · System Builder · Web & Minecraft Tooling</b><br>
+  Ich baue Dinge, die funktionieren – und gut aussehen.
+</p>
+
 ---
 
 ## 💻 Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,docker,mysql,linux,git,idea,vscode&theme=dark&perline=12" />
+  </a>
+</p>
 
-**Main Main:** **Java** — wenn ich könnte, würde ich damit einfach alles machen.  
-**Auch viel genutzt:** **TypeScript** — Web, APIs & Frontend, weil’s dort einfach Sinn ergibt.
+<p align="center">
+  <b>Main Main:</b> Java — wenn ich könnte, würde ich damit einfach alles machen.<br>
+  <b>Auch viel genutzt:</b> TypeScript — Web, APIs & Frontend, weil’s dort einfach Sinn ergibt.
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
-  <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="30"/>
-  <img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" height="30"/>
-</div>
+<p align="center">
+  <sub>Außerdem:</sub><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,lua,rust,html,css&theme=dark&perline=10" />
+  </a>
+  <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" height="32"/>
+</p>
 
-<div align="center">
-  <sub>Außerdem: JS · Lua · Rust · HTML · CSS · COBOL (aus Neugier 😄)</sub>
-</div>
+<p align="center">
+  <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="26"/>
+  <img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" height="26"/>
+</p>
 
 ---
 
