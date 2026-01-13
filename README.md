@@ -2,46 +2,37 @@
 **Developer · System Builder · Web & Minecraft Tooling**  
 Ich baue Dinge, die funktionieren – und gut aussehen.
 
-<br/>
-
 ---
 
 ## 💻 Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,docker,mysql,linux,git,idea,vscode&theme=dark&perline=12" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,docker,mysql,linux,git&theme=dark&perline=9" />
+</div>
 
 <p align="center">
   <b>Main Main:</b> Java — wenn ich könnte, würde ich damit einfach alles machen.<br>
   <b>Auch viel genutzt:</b> TypeScript — Web, APIs & Frontend, weil’s dort einfach Sinn ergibt.
 </p>
 
-<p align="center">
-  <sub>Außerdem:</sub><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,lua,rust,html,css&theme=dark&perline=10" />
-  </a>
-  <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" height="32"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,js,lua,rust,html,css&theme=dark&perline=9" />
+  <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" height="34"/>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="26"/>
   <img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" height="26"/>
-</p>
-
-<br clear="right"/>
+</div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Eministar/Eministar/output/snake.svg" alt="Snake animation" />
-
-## 👀 Profil-Besucher
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Eministar/Eministar/output/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
-  <img src="https://count.getloli.com/@EministarVR?theme=minecraft&padding=7&pixelated=1&darkmode=auto"/>
+  <img src="https://count.getloli.com/@EministarVR?theme=minecraft&padding=7&pixelated=1&darkmode=auto" />
   <br><br>
   danke fürs Vorbeischauen 🫶
 </div>
