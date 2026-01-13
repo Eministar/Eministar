@@ -16,8 +16,7 @@ Ich baue Dinge, die funktionieren – und gut aussehen.
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=idea,js,lua,rust,html,cobol,css&theme=dark&perline=9" />
-  <img src="https://github.com/EministarVR/EministarVR/blob/main/cobol.png?raw=true" height="34"/>
+  <img src="https://skillicons.dev/icons?i=idea,js,lua,rust,html,css&theme=dark&perline=9" />
 </div>
 
 <div align="center">
