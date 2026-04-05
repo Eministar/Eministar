@@ -25,9 +25,9 @@ Ich baue Systeme, die nicht nur laufen – sondern stabil, skalierbar und sauber
 ## 🎮 Game Development & Systeme
 
 <div align="center">
-  <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/FiveM_logo.png/512px-FiveM_logo.png" height="40"/>
-  <img src="https://skillicons.dev/icons?i=lua" height="40"/>
+  <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/FiveM_logo.png/512px-FiveM_logo.png" height="60"/>
+  <img src="https://skillicons.dev/icons?i=lua" height="60"/>
 </div>
 
 <p align="center">
