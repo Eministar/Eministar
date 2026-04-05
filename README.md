@@ -26,7 +26,7 @@ Ich baue Systeme, die nicht nur laufen – sondern stabil, skalierbar und sauber
 
 <div align="center">
   <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/FiveM_logo.png/512px-FiveM_logo.png" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/FiveM-Logo.png/960px-FiveM-Logo.png?_=20230915174323" height="60"/>
   <img src="https://skillicons.dev/icons?i=lua" height="60"/>
 </div>
 
