@@ -1,28 +1,48 @@
-## 👋 Nael-Emin Ben Oun — **Eministar** 🚀
-**Developer · System Builder · Web & Minecraft Tooling**  
-Ich baue Dinge, die funktionieren – und gut aussehen.
+## 👋 Nael-Emin Ben Oun — **Eministar** 🚀  
+**Backend Developer · Systeme · Game & Web Engineering**  
+
+Ich baue Systeme, die nicht nur laufen – sondern stabil, skalierbar und sauber strukturiert sind.
 
 ---
 
-## 💻 Stack
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,nextjs,docker,mysql,linux,git&theme=dark&perline=9" />
 </div>
 
 <p align="center">
-  <b>Main Main:</b> Java — wenn ich könnte, würde ich damit einfach alles machen.<br>
-  <b>Auch viel genutzt:</b> TypeScript — Web, APIs & Frontend, weil’s dort einfach Sinn ergibt.
+  <b>Hauptfokus:</b> Java — Backend, Systeme, Game-Logik<br>
+  <b>Zusätzlich:</b> TypeScript — APIs, Web & Tools
 </p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=idea,js,lua,rust,html,css&theme=dark&perline=9" />
 </div>
 
+---
+
+## 🎮 Game Development & Systeme
+
 <div align="center">
   <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="26"/>
   <img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" height="26"/>
 </div>
+
+<p align="center">
+  <b>Minecraft:</b> Plugins, Server-Systeme, Velocity-Netzwerke<br>
+  <b>FiveM:</b> Skripte, Backend-Logik, Discord-Integrationen
+</p>
+
+---
+
+## 🧠 Was ich mache
+
+- ⚙️ Backend-Systeme (Java / Node)
+- 🤖 Discord-Bots & Automatisierungen  
+- 🌐 Web-Tools & Dashboards  
+- 🎮 Game-Server-Systeme (Minecraft & FiveM)
+- 🧩 Strukturierte, modulare Software-Architektur
 
 ---
 
