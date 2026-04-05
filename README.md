@@ -27,13 +27,14 @@ Ich baue Systeme, die nicht nur laufen – sondern stabil, skalierbar und sauber
 <div align="center">
   <img src="https://assets.papermc.io/brand/papermc_logo.min.svg" height="26"/>
   <img src="https://assets.papermc.io/brand/velocity_combination_mark_blue.min.svg" height="26"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/FiveM_Logo.svg/512px-FiveM_Logo.svg.png" height="26"/>
+  <img src="https://skillicons.dev/icons?i=lua" height="26"/>
 </div>
 
 <p align="center">
   <b>Minecraft:</b> Plugins, Server-Systeme, Velocity-Netzwerke<br>
-  <b>FiveM:</b> Skripte, Backend-Logik, Discord-Integrationen
+  <b>FiveM:</b> Skripte, Backend-Logik, Discord-Integrationen (Lua)
 </p>
-
 ---
 
 ## 🧠 Was ich mache
