@@ -1,5 +1,5 @@
 ## 👋 Nael-Emin Ben Oun — **Eministar** 🚀  
-**Backend Developer · Systeme · Game & Web Engineering**  
+**Fullstack Developer · Systeme · Game & Web Engineering**  
 
 Ich baue Systeme, die nicht nur laufen – sondern stabil, skalierbar und sauber strukturiert sind.
 
